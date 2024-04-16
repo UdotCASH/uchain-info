@@ -1,0 +1,7 @@
+version: '3.9'
+
+services:
+  tool-ubuntu:
+    image: ubuntu
+    command: sleep 5151
+    # container-name: tool-ubuntu
